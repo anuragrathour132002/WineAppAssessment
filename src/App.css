@@ -1,0 +1,9 @@
+.App {}
+
+body {
+  background: #272f58;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+}
